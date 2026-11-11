@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# <your Github username>
+# ngocongminh2907-debug
 
 # Input:
 # p, principal amount
